@@ -18,3 +18,24 @@
     }
   ]
 }
+
+{
+  "Titre2": "FightClub",
+  "directeur2": "Chris Gorak",
+  "Auteur2": "David Fincher,",
+  "Date2": 1999,
+  "Vedette2": [
+    {
+      "Nom2": "Brad Pitt",
+      "Personnage2": "Tyler Durden"
+    },
+    {
+      "Nom2": "Eion Bailey",
+      "Personnage2": "Ricky"
+    },
+    {
+      "Nom2": "David Andrews",
+      "Personnage2": "Thomas"
+    }
+  ]
+}

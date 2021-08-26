@@ -7,15 +7,18 @@
   "Vedette": [
     {
       "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)"
+      "Personnage": "Scarlet Overkill (voix)",
+      "Age": 57 
     },
     {
       "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill  (voix)"
+      "Personnage": "Herb Overkill  (voix)",
+      "Age": 50
     },
     {
       "Nom": "Michael Keaton",
       "Personnage": "Walter Nelson (voix)"
+      "Age": 69
     }
   ],
   
@@ -27,15 +30,18 @@
   "Vedette2": [
     {
       "Nom2": "Brad Pitt",
-      "Personnage2": "Tyler Durden"
+      "Personnage2": "Tyler Durden",
+      "Age2": 57
     },
     {
       "Nom2": "Eion Bailey",
-      "Personnage2": "Ricky"
+      "Personnage2": "Ricky",
+      "Age2": 45
     },
     {
       "Nom2": "David Andrews",
       "Personnage2": "Thomas"
+      "Age2": 29
     }
   ]
 }

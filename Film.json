@@ -1,14 +1,17 @@
 {
-  "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Budget": "$74,000,000",
-  "FDSUSA": "9 Avril 2015",
-  "TotalUSA":"$336,045,770",
-  "TotalMonde": "$1,159,398,397",
-  "Description":"Les Minions sont des petites créatures jaunes qui existent depuis la nuit des temps, ils sont l'évolution d'organismes unicellulaires jaunes qui n'ont qu'un seul but : servir les méchants les plus ambitieux de l'histoire.",
-  "Vedette": [
+  "Films": [
+
+    {
+    "Titre": "Les Minions",
+    "directeur": "Kyle Balda, Pierre Coffin",
+    "Auteur": "Brian Lynch,",
+    "Date": 2015,
+    "Budget": "$74,000,000",
+    "FDSUSA": "9 Avril 2015",
+    "TotalUSA":"$336,045,770",
+    "TotalMonde": "$1,159,398,397",
+    "Description":"Les Minions sont des petites créatures jaunes qui existent depuis la nuit des temps, ils sont l'évolution d'organismes unicellulaires jaunes qui n'ont qu'un seul but : servir les méchants les plus ambitieux de l'histoire.",
+    "Vedette": [
     {
       "Nom": "Sandra Bullock",
       "Personnage": "Scarlet Overkill (voix)",
@@ -24,18 +27,20 @@
       "Personnage": "Walter Nelson (voix)",
       "Age": 69
     }
-  ],
-  
-  "Titre2": "FightClub",
-  "directeur2": "Chris Gorak",
-  "Auteur2": "David Fincher,",
-  "Date2": 1999,
-  "Budget2": "$63,000,000",
-  "FDSUSA2": "15 Octobre 1999",
-  "TotalUSA2": "$37,030,102",
-  "TotalMonde2": "$100,853,753",
-  "Description2":"Le narrateur est un homme qui, trouvant peu de satisfaction dans son activité professionnelle et sa vie en général, crée avec Tyler Durden, un club de combats permettant à ses membres d'évacuer leur mal-être par la violence.",
-  "Vedette2": [
+    ]
+    },
+
+    {
+    "Titre2": "FightClub",
+    "directeur2": "Chris Gorak",
+    "Auteur2": "David Fincher,",
+    "Date2": 1999,
+    "Budget2": "$63,000,000",
+    "FDSUSA2": "15 Octobre 1999",
+    "TotalUSA2": "$37,030,102",
+    "TotalMonde2": "$100,853,753",
+    "Description2":"Le narrateur est un homme qui, trouvant peu de satisfaction dans son activité professionnelle et sa vie en général, crée avec Tyler Durden, un club de combats permettant à ses membres d'évacuer leur mal-être par la violence.",
+    "Vedette2": [
     {
       "Nom2": "Brad Pitt",
       "Personnage2": "Tyler Durden",
@@ -52,4 +57,38 @@
       "Age2": 29
     }
   ]
+
+    },
+    
+    "Titre3": "Shrek",
+    "directeur3": "Andrew Adamson",
+    "Auteur3": "William Steig,",
+    "Date3": 2001,
+    "Budget3": "$$60,000,000",
+    "FDSUSA3": "16 Mai, 2001",
+    "TotalUSA3": "$267,665,011",
+    "TotalMonde3": "$484,409,218",
+    "Description3":"Un méchant seigneur exile des créatures de conte de fées dans le marais d'un ogre grincheux, qui doit partir en quête et sauver une princesse pour le seigneur afin de récupérer sa terre. ",
+    "Vedette3": [
+    {
+      "Nom3": "Mike Myers",
+      "Personnage3": "Shrek",
+      "Age3": 58
+    },
+    {
+      "Nom3": "Eddie Murphy",
+      "Personnage3": "L'âne",
+      "Age3": 60
+    },
+    {
+      "Nom3": "Cameron Diaz",
+      "Personnage3": "Fiona",
+      "Age3": 48
+    }
+  ]
+
+    }
+
+    ]
+
 }

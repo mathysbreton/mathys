@@ -31,49 +31,49 @@
     },
 
     {
-    "Titre2": "FightClub",
-    "directeur2": "Chris Gorak",
-    "Auteur2": "David Fincher,",
-    "Date2": 1999,
-    "Budget2": "$63,000,000",
-    "FDSUSA2": "15 Octobre 1999",
-    "TotalUSA2": "$37,030,102",
-    "TotalMonde2": "$100,853,753",
-    "Description2":"Le narrateur est un homme qui, trouvant peu de satisfaction dans son activité professionnelle et sa vie en général, crée avec Tyler Durden, un club de combats permettant à ses membres d'évacuer leur mal-être par la violence.",
+    "Titre": "FightClub",
+    "directeur": "Chris Gorak",
+    "Auteur": "David Fincher,",
+    "Date": 1999,
+    "Budget": "$63,000,000",
+    "FDSUSA": "15 Octobre 1999",
+    "TotalUSA": "$37,030,102",
+    "TotalMonde": "$100,853,753",
+    "Description":"Le narrateur est un homme qui, trouvant peu de satisfaction dans son activité professionnelle et sa vie en général, crée avec Tyler Durden, un club de combats permettant à ses membres d'évacuer leur mal-être par la violence.",
     "Vedette2": [
     {
-      "Nom2": "Brad Pitt",
-      "Personnage2": "Tyler Durden",
-      "Age2": 57
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden",
+      "Age": 57
     },
     {
-      "Nom2": "Eion Bailey",
-      "Personnage2": "Ricky",
-      "Age2": 45
+      "Nom": "Eion Bailey",
+      "Personnage": "Ricky",
+      "Age": 45
     },
     {
-      "Nom2": "David Andrews",
-      "Personnage2": "Thomas",
-      "Age2": 29
+      "Nom": "David Andrews",
+      "Personnage": "Thomas",
+      "Age": 29
     }
   ]
 
     },
     {
-    "Titre3": "Shrek",
-    "directeur3": "Andrew Adamson",
-    "Auteur3": "William Steig,",
-    "Date3": 2001,
-    "Budget3": "$$60,000,000",
-    "FDSUSA3": "16 Mai, 2001",
-    "TotalUSA3": "$267,665,011",
-    "TotalMonde3": "$484,409,218",
-    "Description3":"Un méchant seigneur exile des créatures de conte de fées dans le marais d'un ogre grincheux, qui doit partir en quête et sauver une princesse pour le seigneur afin de récupérer sa terre. ",
-    "Vedette3": [
+    "Titre": "Shrek",
+    "directeur": "Andrew Adamson",
+    "Auteur": "William Steig,",
+    "Date": 2001,
+    "Budget": "$$60,000,000",
+    "FDSUSA": "16 Mai, 2001",
+    "TotalUSA": "$267,665,011",
+    "TotalMonde": "$484,409,218",
+    "Description":"Un méchant seigneur exile des créatures de conte de fées dans le marais d'un ogre grincheux, qui doit partir en quête et sauver une princesse pour le seigneur afin de récupérer sa terre. ",
+    "Vedette": [
     {
-      "Nom3": "Mike Myers",
-      "Personnage3": "Shrek",
-      "Age3": 58
+      "Nom": "Mike Myers",
+      "Personnage": "Shrek",
+      "Age": 58
     },
     {
       "Nom3": "Eddie Murphy",
